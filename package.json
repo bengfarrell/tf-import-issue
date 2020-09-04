@@ -1,0 +1,15 @@
+{
+  "name": "tf-import-issue",
+  "version": "1.0.0",
+  "dependencies": {
+    "@tensorflow-models/posenet": "^2.2.1",
+    "@tensorflow/tfjs-core": "^2.1.0",
+    "@tensorflow/tfjs-converter": "^2.1.0"
+  },
+  "devDependencies": {
+    "es-dev-server": "^1.31.0"
+  },
+  "scripts": {
+    "dev": "npx es-dev-server --watch --node-resolve --open=index.html"
+  }
+}
