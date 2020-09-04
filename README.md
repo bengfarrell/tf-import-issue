@@ -1,4 +1,4 @@
-Simply `npm install` and the `npm run dev`
+Simply `npm install` and then `npm run dev`
 
 Look at the error in your browser's console log.
 
